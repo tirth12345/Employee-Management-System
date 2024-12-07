@@ -5,7 +5,7 @@ The **Employee Management System** is a robust and user-friendly application des
 ## Features
 
 ### Employee Management
-- **Create, Update, Delete Employee Records**: Easily manage employee information with CRUD functionalities.
+- **Create, Update, Delete Employee Records**: Easily manage employee information.
 - **Role Assignment**: Assign specific roles to employees based on their responsibilities.
 
 ### Task Management
