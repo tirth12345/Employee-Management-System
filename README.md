@@ -1,7 +1,3 @@
-Here’s a comprehensive description for your GitHub repository: 
-
----
-
 # Employee Management System
 
 The **Employee Management System** is a robust and user-friendly application designed to streamline employee and task management processes for organizations. This project provides an all-in-one solution for efficiently managing employee data, tasks, and roles while incorporating secure authentication features.
